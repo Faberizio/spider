@@ -1,4 +1,8 @@
 # My first git lesson
+bla bla
+bla
+bla
+
 
 Hey guys, this is my first lesson on git
 
